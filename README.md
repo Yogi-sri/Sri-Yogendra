@@ -1,6 +1,6 @@
 # 🏄‍♂️ Blobby
 
-**`AI/ML Developer | Full-Stack Developer | Game Modder | Designer | App Developer`**
+**`IOT Developer | Arduino | Designer `**
 
 Hey there! I'm **Sri Yogendra**, a passionate IOT developer who loves creating intelligent systems and designing sleek user experiences. Whether it's coding, building AI tech. I’m always exploring something new.
 
