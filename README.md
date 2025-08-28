@@ -31,59 +31,47 @@ Hey there! I'm **Sri Yogendra**, a passionate IOT developer who loves creating i
 <img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Adobe" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <img align="left" alt="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img align="left" alt="Illustrator" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
-<img align="left" alt="UI/UX" width="30px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-ui-ux-web-development-flaticons-lineal-color-flat-icons.png" />
 <img align="left" alt="Music" width="30px" src="https://img.icons8.com/color/48/music--v1.png" />
 
 <br clear="left"/>
 
 ✔ **Additional Skills:**  
-- AI & Machine Learning Development  
-- Game Modding & Game Development  
-- Automation & Bot Development  
-- UI/UX Designing & 3D Animation  
-- Server Management  
+- AI Development  
+- Automation & Development  
+- UI/UX Designing
+- Music
 
 ---
 
 ### 📚 **Currently Learning**
-- **Deep Learning** (TensorFlow, PyTorch)  
-- **Game Engines** (Unity, Unreal Engine)  
-- **Generative AI** (Diffusion Models, Audio Generation)  
-- **Advanced Web Development** (React, Tailwind, Next.js)  
+- **Iot Development** (Arduino, C/C++) 
+- **Generative AI** (Diffusion Models, Audio Generation)   
 
 ---
 
-### 🚀 **Featured Projects**
-- **[N.I.R.A (Neural Interactive Responsive Agent)](https://github.com/NightBlobby/N.I.R.A)**  
-  Your personal AI assistant that’s smart, private, and packed with features.  
+####  Projects & Contact
+- **ALCOSAFE** – Vehicle safety with GPS & SMS alerts  
+- **Theft Detection System** – IoT-based laser intrusion alert system 
 
-- **Voidcaller**  
-  A dialer base app with nothing os themeing and cool features and much more features up-comming.  
+#### ​ GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-- **Game Mods**  
-  Custom mods for immersive gameplay & visual enhancements.  
-
----
-
-### 📊 **Stats**
-
-![Blobby's GitHub stats](https://github-readme-stats.vercel.app/api?username=nightblobby&show_icons=true&theme=tokyonight)
+#### Realtime Visitor Count
+![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
 
 ---
 
 <details>
-<summary><h3>👾 The Villain Arc</h3></summary>
 
 My journey started during the **COVID era** with an ancient PC. From activating Windows (oops) to creating AI and mods, I’ve come a long way. Now, I build things that **learn, adapt, and sometimes Rickroll you for fun.**
 
 **What’s Next?**  
 - Building **powerful AI systems**  
-- Creating **immersive gaming experiences**  
+- Creating **Ai Tech Iot products**  
 - Designing tools that make tech fun & accessible  
 
 </details>
 
 ---
 
-[**GitHub**](https://github.com/NightBlobby) | [**Twitter**](https://x.com/NightBlobby)
+[**GitHub**](https://github.com/Yogi-sri) | [**Twitter**](https://x.com/Yogi-sri)
