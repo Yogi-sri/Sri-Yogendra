@@ -23,7 +23,6 @@ Hey there! I'm **Sri Yogendra**, a passionate IOT developer who loves creating i
 
 ### 🧰 **Languages & Tools**
 
-### 🛠️ Skills  
 
 <img align="left" alt="Arduino" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
 <img align="left" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -34,6 +33,7 @@ Hey there! I'm **Sri Yogendra**, a passionate IOT developer who loves creating i
 <img align="left" alt="Music" width="30px" src="https://img.icons8.com/color/48/music--v1.png" />
 
 <br clear="left"/>
+
 
 ✔ **Additional Skills:**  
 - AI Development  
@@ -63,7 +63,7 @@ Hey there! I'm **Sri Yogendra**, a passionate IOT developer who loves creating i
 
 <details>
 
-My journey started during the **COVID era** with an ancient PC. From activating Windows (oops) to creating AI and mods, I’ve come a long way. Now, I build things that **learn, adapt, and sometimes Rickroll you for fun.**
+My journey started during the my schooling with an ancient PC. From activating Windows (oops) to creating simple Arduino projects, I’ve come a long way.
 
 **What’s Next?**  
 - Building **powerful AI systems**  
