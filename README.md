@@ -1,4 +1,4 @@
-# 🏄‍♂️ Blobby
+# 🏄‍♂️ Yogii
 
 **`IOT Developer | Arduino | Designer `**
 
